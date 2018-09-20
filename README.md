@@ -11,4 +11,5 @@ textField.maxLength = 10
 textField.maxIntLength = 6 
 ### 3.小数位数输入限制
 textField.maxDecimalLength = 4
-#### 特点 设置
+
+#### 有问题欢迎 交流 QQ:494230932
